@@ -1,0 +1,10 @@
+AddressU WRAP 
+AddressV WRAP 
+AddressW WRAP 
+BorderColor (0.000000f, 0.000000f, 0.000000f, 0.000000f) 
+ComparisonFunc NEVER 
+フィルター MIN_MAG_MIP_LINEAR 
+MaxAnisotropy 0 
+MaxLOD 3.40282e+038f 
+MinLOD 0.000000f 
+MipLODBias 0.000000f 
